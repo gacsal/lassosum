@@ -84,3 +84,6 @@
 * [Bug fix] Pull request #20
 * Adds seed option in standalone version 
 
+
+## v0.4.5.1
+* [Bug fix] Fix compile errors with newer compiler options
